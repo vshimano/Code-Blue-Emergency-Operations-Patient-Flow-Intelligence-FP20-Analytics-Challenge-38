@@ -1,0 +1,2 @@
+# Code-Blue-Emergency-Operations-Patient-Flow-Intelligence-FP20-Analytics-Challenge-38
+This Power BI report analyzes emergency care performance across an 11-hospital NHS network in England. Built for FP20 Analytics Challenge 38, the report uses ZoomCharts Drill Down Pro visuals for interactive exploration across three analytical pages: an executive overview, a patient journey deep-dive, and an operational pressure analysis.
